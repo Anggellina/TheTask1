@@ -95,6 +95,7 @@ public class Field {
         return result;
     }
 
+
     public SYMBOL[][] getField() {
         return field;
     }
